@@ -1,2 +1,2 @@
 #!/bin/bash
-find /holberton -type f -delete && rm -r /holberton
+rmdir /tmp/\holberton

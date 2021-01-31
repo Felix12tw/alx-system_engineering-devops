@@ -1,6 +1,2 @@
 #!/bin/bash
-if [ ! -d "$OLDPWD" ]; then
-  export OLDPWD=/
-fi
-
 cd -
